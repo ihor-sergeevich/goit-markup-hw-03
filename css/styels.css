@@ -317,7 +317,7 @@ body {
   background-color: #2e2f42;
 }
 
-.footer-logo {
+.footer-logo .logo {
   display: inline-block;
   margin-bottom: 16px;
 }
@@ -328,9 +328,7 @@ body {
 
 .footer-description {
   color: #f4f4fd;
-}
-
-.footer-container {
   max-width: 264px;
 }
+
 /* ==========end-Footer */
