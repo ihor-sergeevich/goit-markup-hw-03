@@ -135,7 +135,8 @@ body {
 
 .effective-project {
   background-color: #2e2f42;
-  padding: 188px;
+  padding-top: 188px;
+  padding-bottom: 188px;
 }
 
 .effective-project-title {
