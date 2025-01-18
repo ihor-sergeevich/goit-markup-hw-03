@@ -316,10 +316,7 @@ body {
   background-color: #2e2f42;
 }
 
-.footer-logo {
-}
-
-.span-logo-studio {
+.footer-logo.logo {
   display: inline-block;
   margin-bottom: 16px;
 }
