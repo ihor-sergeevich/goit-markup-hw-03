@@ -311,13 +311,15 @@ body {
 /* ==========end-Our-Portfolio-project */
 
 /* Footer */
-
 .footer {
   padding: 100px 0;
   background-color: #2e2f42;
 }
 
-.footer-logo .logo span {
+.footer-logo {
+}
+
+.span-logo-studio {
   display: inline-block;
   margin-bottom: 16px;
 }
