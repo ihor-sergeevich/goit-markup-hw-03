@@ -1,7 +1,3 @@
-:root {
-  --iris: #4d5ae5;
-}
-
 *,
 *::before,
 *::after {
@@ -79,7 +75,7 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   margin-right: 76px;
-  color: var(--iris);
+  color: #4d5ae5;
 }
 
 .logo span {
